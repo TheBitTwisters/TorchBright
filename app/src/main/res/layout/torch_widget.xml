@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@android:drawable/btn_radio"
+              android:padding="@dimen/widget_margin">
+
+    <ImageButton
+        android:id="@+id/btn_torch_widget"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/off"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/button" />
+
+</LinearLayout>

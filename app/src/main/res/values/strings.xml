@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Torch Bright</string>
+    <string name="notification">Tap here to turn off torch</string>
+    <string name="button">On and Off button</string>
+
+    <string name="action_process_torch">TorchBright.Process.Torch</string>
+
+    <string name="key_switch_torch">TorchBright.Key.TorchSwitch</string>
+    <string name="value_switch_torch">TorchBright.Value.TorchSwitch</string>
+</resources>

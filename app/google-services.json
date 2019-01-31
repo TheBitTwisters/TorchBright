@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "988972007764",
+    "firebase_url": "https://apps-8d8f7.firebaseio.com",
+    "project_id": "apps-8d8f7",
+    "storage_bucket": "apps-8d8f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988972007764:android:ccaab819548a06fc",
+        "android_client_info": {
+          "package_name": "com.tbt.apps.torchbright"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988972007764-i1mg1uorq077juksobe6fnaa0e1hch17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tbt.apps.torchbright",
+            "certificate_hash": "8f56d81bd0402d59dc578615397224e4e1ad5895"
+          }
+        },
+        {
+          "client_id": "988972007764-n0gim9s45e556di5r3te338qi13qv3i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKYCZUPJiquobI-d8vYUqPlEYIswJDFjo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
